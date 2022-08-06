@@ -1,2 +1,2 @@
 # simple-demo
-simple repo for training
+simple repo for training.
